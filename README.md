@@ -11,5 +11,5 @@ bundle install
 rake db:migrate
 rake db:seed
 
-rake doc:service
+rake doc:services
 ```
